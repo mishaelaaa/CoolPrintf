@@ -1,0 +1,7 @@
+﻿  Func_header.c
+  Source.c
+  Generating Code...
+F:\Mihaela\TU Sofia\ПИК\ПИК2\CoolPrintf\coolPrintf\Func_header.c(342): warning C4172: returning address of local variable or temporary: result
+F:\Mihaela\TU Sofia\ПИК\ПИК2\CoolPrintf\coolPrintf\Func_header.c(211): warning C4172: returning address of local variable or temporary: result
+F:\Mihaela\TU Sofia\ПИК\ПИК2\CoolPrintf\coolPrintf\Func_header.c(439): warning C4172: returning address of local variable or temporary: result
+  coolPrintf.vcxproj -> F:\Mihaela\TU Sofia\ПИК\ПИК2\CoolPrintf\x64\Debug\coolPrintf.exe
