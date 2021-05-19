@@ -1,7 +1,7 @@
 # CoolPrintf
 New realization of the printf function.
 
->**Before the arrows, the new function is located,coolPrintf
+>**Before the arrows, the new function is located,coolPrintf,
 and on the right - is the original printf function.**
 
 
